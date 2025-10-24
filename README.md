@@ -29,9 +29,3 @@ Here are some of the technologies I'm working with:
 * **Email:** shabangusimosothando@gmail.com
 
 ---
-
-### 📊 My GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
