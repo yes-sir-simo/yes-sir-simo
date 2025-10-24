@@ -1,6 +1,6 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Simosothando Shabangu 👋
 
-<img src="https://img.shields.io/badge/LinkedIn-YourProfile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
+---
 
 I'm a second-year Information Technology student, currently specializing in networking and studying for my **CCNA (200-301)** certification. I'm passionate about building and securing networks, and I'm starting to explore network automation.
 
@@ -25,8 +25,8 @@ Here are some of the technologies I'm working with:
 
 ### 📫 How to Reach Me:
 
-* **LinkedIn:** [Your LinkedIn URL]
-* **Email:** [Your Professional Email]
+* **LinkedIn:** https://www.linkedin.com/in/simosothando-shabangu-215063306
+* **Email:** shabangusimosothando@gmail.com
 
 ---
 
