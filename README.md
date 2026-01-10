@@ -1,31 +1,18 @@
-# Hi there, I'm Simosothando Shabangu 👋
+## Hi, I'm Simo 👋
 
----
+🎓 IT Support & Networking Student (CCNA)  
+🌐 Aspiring Junior Network Engineer / NOC Technician  
+🔐 Interested in Networking, Cybersecurity & Cloud  
 
-I'm a third-year Information Technology student, currently specializing in networking and studying for my **CCNA (200-301)** certification. I'm passionate about building and securing networks, and I'm starting to explore network automation.
+### 🛠️ Skills
+- Networking (CCNA level)
+- Linux & Windows Administration
+- PowerShell scripting
+- Packet Tracer labs
+- C# fundamentals
+- SQL & Databases
 
----
+### 📫 Connect with Me
+I am currently looking for entry-level opportunities in **Junior Network Engineer**, **Network Operations (NOC)** or **IT Support**.
 
-### 🔧 Technologies & Skills
-
-Here are some of the technologies I'm working with:
-
-* **Networking:** TCP/IP, Subnetting, OSPF, EIGRP, STP, VLANs, ACLs
-* **Tools:** Cisco Packet Tracer, GNS3, Wireshark
-* **Learning:** Python (for networking), Ansible
-* **Certifications:** Studying for Cisco CCNA
-
----
-
-### 🌱 I'm Currently Working On...
-
-* Building complex labs in Packet Tracer to master routing and switching concepts.
-* Creating a repository of my CCNA study notes, organized by exam topic.
-* Writing simple Python scripts to automate backing up switch configurations.
-
-### 📫 How to Reach Me:
-
-* **LinkedIn:** https://www.linkedin.com/in/simosothando-shabangu-215063306
-* **Email:** shabangusimosothando@gmail.com
-
----
+[Start a Conversation on LinkedIn](Your-LinkedIn-URL)
