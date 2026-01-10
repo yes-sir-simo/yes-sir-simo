@@ -2,7 +2,7 @@
 
 ---
 
-I'm a second-year Information Technology student, currently specializing in networking and studying for my **CCNA (200-301)** certification. I'm passionate about building and securing networks, and I'm starting to explore network automation.
+I'm a third-year Information Technology student, currently specializing in networking and studying for my **CCNA (200-301)** certification. I'm passionate about building and securing networks, and I'm starting to explore network automation.
 
 ---
 
