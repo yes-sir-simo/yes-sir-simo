@@ -15,4 +15,4 @@
 ### 📫 Connect with Me
 I am currently looking for entry-level opportunities in **Junior Network Engineer**, **Network Operations (NOC)** or **IT Support**.
 
-[Start a Conversation on LinkedIn](Your-LinkedIn-URL)
+[Start a Conversation on LinkedIn](https://www.linkedin.com/in/simosothando-shabangu-215063306)
